@@ -25,7 +25,9 @@ import httpx
 
 from .documents import Chunk, load_chunks
 
-EMBED_BATCH = 16
+# Per-invocation CPU on Supabase edge functions is tight; batches above ~4
+# texts hit the worker limit (HTTP 546) with the gte-small model.
+EMBED_BATCH = 4
 TABLE = "careerrag_chunks"
 
 
