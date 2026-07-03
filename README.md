@@ -51,20 +51,30 @@ Chat on nagysolution.com  ->  Groq (strict grounding prompt + citations)
 - **Grounding over fluency.** The generation prompt requires answers only from
   retrieved context, with source citations, and a visible refusal when the
   context is insufficient.
+- **Evals against production.** A weekly CI job interrogates the real deployed
+  endpoint (not a mock) with 33 cases across four categories and publishes the
+  results, failures included, in [`evals/RESULTS.md`](evals/RESULTS.md). Safety
+  categories (out-of-scope, compensation, adversarial) gate at 100%; grounded
+  questions gate at 80%. The suite caught a prompt-injection leak before
+  launch; that attack is now a permanent regression test.
+- **Self-refreshing knowledge.** A weekly cron regenerates the GitHub section
+  of the knowledge base from the public API and commits it, which triggers
+  re-indexing. The bot stays current about public repos with zero manual work.
 
 ## Repository layout
 
 ```
 knowledge/           the knowledge base (markdown + frontmatter)
-  profile/           pitch, work history, skills, education
+  profile/           pitch, work history, skills, education, current work
   projects/          one deep-dive per portfolio project
   testimonials/      what CIOs, leads, and mentors wrote
   posts/             published LinkedIn posts
   faq/               recruiter questions, answered
-  github/            auto-generated from the GitHub API (cron)
+  github/            auto-generated from the GitHub API (weekly cron)
 indexer/             Python: frontmatter parsing, chunking, embedding, upsert
+evals/               33 cases + runner hitting the production endpoint
 supabase/            schema (pgvector + match RPC) and the embed edge function
-.github/workflows/   test + re-index on every knowledge push
+.github/workflows/   index on push · weekly github-refresh · weekly evals
 ```
 
 ## Running locally
@@ -80,13 +90,15 @@ A full indexing run needs `SUPABASE_URL` and `SUPABASE_SECRET_KEY` set.
 
 ## Status
 
-- [x] Knowledge base v1 (21 curated documents)
+- [x] Knowledge base v1 (25 curated documents)
 - [x] Indexer: chunking, hashing, change-aware embedding, stale cleanup
 - [x] Supabase schema: pgvector, HNSW index, similarity RPC, read-only RLS
-- [ ] Chat API + UI on nagysolution.com (milestone 2)
-- [ ] Eval suite: grounded / out-of-scope / adversarial, results published here
-      (milestone 3)
-- [ ] Weekly GitHub auto-refresh of `knowledge/github/` (milestone 3)
+- [x] Chat API + UI live on nagysolution.com: grounded Groq generation with
+      citations, per-IP rate limiting, model fallback on free-tier 429s
+- [x] Eval suite: 33 cases (grounded / out-of-scope / compensation /
+      adversarial) against the production endpoint, weekly, results in
+      [`evals/RESULTS.md`](evals/RESULTS.md)
+- [x] Weekly GitHub auto-refresh of `knowledge/github/`
 
 ---
 
