@@ -100,6 +100,15 @@ A full indexing run needs `SUPABASE_URL` and `SUPABASE_SECRET_KEY` set.
       [`evals/RESULTS.md`](evals/RESULTS.md)
 - [x] Weekly GitHub auto-refresh of `knowledge/github/`
 
+## Roadmap (actively developed)
+
+- [ ] Grow the knowledge base: more project deep-dives, backfilled LinkedIn
+      posts, testimonial source documents
+- [ ] Streaming answers in the chat UI
+- [ ] OG card for link previews
+- [ ] Feedback loop: review logged questions monthly, add missing answers to
+      the knowledge base
+
 ---
 
 <div align="center">
