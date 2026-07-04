@@ -27,7 +27,25 @@ business hours as needed.
 A mix of full-time remote roles, freelance clients, and contract work. He is open
 to whichever engagement model fits the problem.
 
+## What work authorization does he have?
+
+Strong and simple: he holds dual Romanian and Hungarian citizenship, both EU,
+so he can work as an employee anywhere in the European Union with no visa or
+sponsorship needed, backed by nearly 10 years of documented employment history
+in Germany. In Paraguay he holds permanent residence (cedula permanente),
+which also opens options in the Mercosur region. For the US and everywhere
+else he works as a contractor or freelancer, which he has done for US
+companies continuously since 2023.
+
+## Would he relocate?
+
+No. Remote is a conviction, not a compromise: his family found their place in
+Paraguay and that stability is not for sale. What clients get instead is
+someone with years of proven remote delivery across US and European teams,
+available on whichever business hours the team needs.
+
 ## What is his notice period?
 
-He can typically start new freelance engagements quickly. For full-time roles,
-timing is discussed individually; reach out at nandor@nagysolution.com.
+He can typically start new engagements quickly, often immediately. For
+full-time roles, timing is discussed individually; reach out at
+nandor@nagysolution.com.

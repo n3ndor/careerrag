@@ -7,7 +7,9 @@ updated: 2026-07-03
 
 Nandor worked at Sojourn Creations, a US gaming startup (remote), from April 2024
 to July 2025. He joined as a developer and was promoted to Mobile Lead in
-January 2025.
+January 2025. The product was "Aisop", a text-based AI narrative game built
+with a Django backend and websockets for real-time play. The founders came
+from the same coding bootcamp he attended, so he knew the team well.
 
 What he built there:
 

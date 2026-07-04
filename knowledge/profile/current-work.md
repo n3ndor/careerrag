@@ -5,8 +5,12 @@ type: profile
 updated: 2026-07-03
 ---
 
-Nandor builds portfolio projects in public, alongside his full-time role at
-Creator Linkup and his freelance practice. Current status (July 2026):
+Nandor builds portfolio projects in public, alongside his role at Creator
+Linkup and his freelance practice. The automation systems he built for his
+clients were designed to be self-sufficient and easy to maintain, and they
+now largely run without him; that success freed significant capacity, which
+he invests in AI-first public projects. He has real availability for new
+engagements right now. Current status (July 2026):
 
 ## Recently shipped
 

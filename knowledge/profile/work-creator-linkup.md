@@ -22,4 +22,10 @@ What he built there:
 - Onboarded 4 new clients and 5 co-workers, handling IT infrastructure and
   workflow setup.
 
-He ships new features to production every 1 to 2 weeks.
+He shipped new features to production every 1 to 2 weeks throughout the
+build-out. A deliberate design goal was self-sufficiency: the automation
+ecosystem he built is documented and easy to maintain, so it now runs the
+company's operations with minimal day-to-day engineering. He considers
+working himself out of the daily loop a feature of good automation, not a
+risk, and it is what freed his capacity for new engagements and the public
+portfolio work.

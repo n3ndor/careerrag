@@ -31,4 +31,25 @@ performance reasons.
 
 His testimonials consistently highlight the opposite: "not only met deadlines but
 also took on additional tasks" (CIO at 3BX) and "consistently delivering
-high-quality work in a timely manner" (team lead at 3BX and Sojourn).
+high-quality work in a timely manner" (team lead at 3BX and Sojourn). He gives
+time estimates and does everything to keep them. Asked about it directly, he
+recalls exactly one estimate he missed in his career: early on he underestimated
+how long deploying and customizing an open-source HR platform on AWS would
+take. The lesson stuck: proper discovery before committing to a number.
+
+## Can he adapt to new tools and codebases fast?
+
+This is the question clients ask most, and the answer is his track record: he
+was paid to learn n8n on the job and was productive within weeks, ultimately
+building 100+ production workflows. He works with AI tools daily and stays
+current deliberately, following engineering communities and new releases so
+his stack never falls behind.
+
+## What is his work philosophy?
+
+"Always aim to earn well or to learn a lot. If neither is true, you are in the
+wrong place and should move." He treats every engagement, including the
+early-stage startups that never launched, as either income or education, and
+he extracts the maximum from both. He solves problems immediately rather than
+stalling on bottlenecks, and when something blocks him, he finds another route
+forward instead of waiting.

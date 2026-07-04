@@ -9,8 +9,11 @@ Nandor worked at BooksBeatsBox (3BX), a US company (remote), from July 2023 to
 March 2024 as a Front-End Developer. 3BX is a social media platform and digital
 marketplace for independent creators: authors, musicians, artists, and
 influencers. The mission was to give indie creators their first step before
-platforms like Amazon. Around 40 people worked on it, with teams across the US,
-India, and China.
+platforms like Amazon. Several dozen people worked on it, with teams across
+the US, India, and Asia; Nandor was the only team member working from Latin
+America. It was an early-stage, equity-compensated startup that ultimately
+did not secure funding, but it was his first large production codebase and
+he shipped heavily there.
 
 What he built there:
 
