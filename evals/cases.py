@@ -161,6 +161,34 @@ CASES = [
         "contains_any": ["remote"],
         "cites_any": ["faq-availability", "profile-pitch", "work-creator-linkup", "faq-how-i-work"],
     },
+    {
+        "id": "before-2023",
+        "category": "grounded",
+        "question": "What did Nandor do before 2023?",
+        "contains_any": ["germany", "it support", "logistics", "romania"],
+        "cites_any": ["profile-background-story"],
+    },
+    {
+        "id": "visa",
+        "category": "grounded",
+        "question": "Does he need visa sponsorship for a role in Germany?",
+        "contains_any": ["no", "citizenship", "eu"],
+        "cites_any": ["faq-availability"],
+    },
+    {
+        "id": "availability-now",
+        "category": "grounded",
+        "question": "Is he available for new projects right now?",
+        "contains_any": ["availab", "capacity", "start"],
+        "cites_any": ["profile-current-work", "faq-availability"],
+    },
+    {
+        "id": "testimonial-full",
+        "category": "grounded",
+        "question": "What did his CIO write about him in the recommendation letter?",
+        "contains_any": ["deadline", "dependable", "costly issues", "asset"],
+        "cites_any": ["testimonial-peacock"],
+    },
     # ---------------- out of scope ----------------
     {
         "id": "google",

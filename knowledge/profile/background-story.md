@@ -1,11 +1,15 @@
 ---
 id: profile-background-story
-title: Background - from a Romanian village to remote AI engineering
+title: What Nandor did before 2023 - his background and path into software
 type: profile
 updated: 2026-07-04
 ---
 
-Nandor's path into software was not a straight line, and he tells it openly.
+What did Nandor do before 2023, between his 2011 university degree and the
+coding bootcamp? His path into software was not a straight line, and he tells
+it openly: IT support and first websites in Romania, a decade in Germany
+working logistics while raising a family and learning German, then a
+deliberate reset in Paraguay that let him go all-in on engineering.
 
 ## The village tech kid
 
