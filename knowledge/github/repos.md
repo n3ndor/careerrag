@@ -3,23 +3,35 @@ id: github-repos
 title: Public GitHub repositories (auto-generated)
 type: github
 source_url: https://github.com/n3ndor
-updated: 2026-07-03
+updated: 2026-07-06
 ---
 
 Nandor's public repositories at github.com/n3ndor, most recently active
-first. This list is regenerated automatically every week (last: 2026-07-03).
+first. This list is regenerated automatically every week (last: 2026-07-06).
 
-## careerrag
+## belegradar
 
 No description.
-Main language: Python. Last activity: 2026-07-03.
-Link: https://github.com/n3ndor/careerrag
+Main language: n/a. Last activity: 2026-07-05.
+Link: https://github.com/n3ndor/belegradar
 
 ## jobradar
 
 No description.
-Main language: Python. Last activity: 2026-07-03.
+Main language: TypeScript. Last activity: 2026-07-05.
 Link: https://github.com/n3ndor/jobradar
+
+## jobfeeds
+
+No description.
+Main language: Python. Last activity: 2026-07-05.
+Link: https://github.com/n3ndor/jobfeeds
+
+## careerrag
+
+No description.
+Main language: Python. Last activity: 2026-07-04.
+Link: https://github.com/n3ndor/careerrag
 
 ## dopaminebuy
 
@@ -68,15 +80,3 @@ Link: https://github.com/n3ndor/soloproject
 No description.
 Main language: JavaScript. Last activity: 2023-07-12. Stars: 1.
 Link: https://github.com/n3ndor/SplashyEscapes
-
-## teamManagerDeploy
-
-No description.
-Main language: JavaScript. Last activity: 2023-07-05. Stars: 1.
-Link: https://github.com/n3ndor/teamManagerDeploy
-
-## Algos
-
-No description.
-Main language: JavaScript. Last activity: 2023-06-24. Stars: 1.
-Link: https://github.com/n3ndor/Algos
