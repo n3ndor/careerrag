@@ -2,12 +2,17 @@
 id: work-freelance
 title: Freelance Full Stack and Automation Engineer (June 2024 - present)
 type: profile
-updated: 2026-07-03
+updated: 2026-07-13
 ---
 
-Nandor has run a continuous freelance practice since June 2024, serving 6+ clients
-in Germany and Switzerland (remote), alongside his full-time roles. Selected
-engagements:
+Nandor has run a continuous freelance practice since June 2024, serving 7+ clients
+across Germany, Switzerland and Canada (remote), alongside his full-time roles.
+Selected engagements:
+
+## Aesela (Canada)
+
+An ongoing full-stack development and automation engagement for a Canadian company.
+More details to follow.
 
 ## RemoteClip
 

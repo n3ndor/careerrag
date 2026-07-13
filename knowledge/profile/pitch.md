@@ -6,13 +6,13 @@ updated: 2026-07-03
 ---
 
 Nandor Nagy is a Full-Stack Product Engineer with 5+ years of experience building
-complete business systems for companies across the US, Germany, and Switzerland.
+complete business systems for companies across the US, Canada, Germany and Switzerland.
 His core stack is Next.js, TypeScript, Tailwind CSS, and n8n, with Python for data
 pipelines and automation.
 
 He specializes in turning manual, repetitive business operations into automated
 workflows using AI integrations: RAG systems, chatbots, and LLM APIs. He has built
-over 100 production n8n workflows and delivered production systems for 13+ clients.
+over 100 production n8n workflows and delivered production systems for 14+ clients.
 
 He solves whole business problems end to end. When a client has a problem, he builds
 the complete solution: the app, the database, the automations around it, and the AI

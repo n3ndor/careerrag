@@ -9,7 +9,7 @@ updated: 2026-07-03
 
 Nandor is based in South America (Paraguay) and works on US business hours. He is
 available for remote work anywhere and has years of experience working remotely
-with teams in the US, Germany, and Switzerland.
+with teams in the US, Canada, Germany and Switzerland.
 
 ## Can he work US hours?
 
