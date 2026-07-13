@@ -3,17 +3,23 @@ id: github-repos
 title: Public GitHub repositories (auto-generated)
 type: github
 source_url: https://github.com/n3ndor
-updated: 2026-07-06
+updated: 2026-07-13
 ---
 
 Nandor's public repositories at github.com/n3ndor, most recently active
-first. This list is regenerated automatically every week (last: 2026-07-06).
+first. This list is regenerated automatically every week (last: 2026-07-13).
 
 ## belegradar
 
 No description.
-Main language: n/a. Last activity: 2026-07-05.
+Main language: Python. Last activity: 2026-07-06.
 Link: https://github.com/n3ndor/belegradar
+
+## careerrag
+
+No description.
+Main language: Python. Last activity: 2026-07-06.
+Link: https://github.com/n3ndor/careerrag
 
 ## jobradar
 
@@ -26,12 +32,6 @@ Link: https://github.com/n3ndor/jobradar
 No description.
 Main language: Python. Last activity: 2026-07-05.
 Link: https://github.com/n3ndor/jobfeeds
-
-## careerrag
-
-No description.
-Main language: Python. Last activity: 2026-07-04.
-Link: https://github.com/n3ndor/careerrag
 
 ## dopaminebuy
 
