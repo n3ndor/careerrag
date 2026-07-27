@@ -3,16 +3,16 @@ id: github-repos
 title: Public GitHub repositories (auto-generated)
 type: github
 source_url: https://github.com/n3ndor
-updated: 2026-07-20
+updated: 2026-07-27
 ---
 
 Nandor's public repositories at github.com/n3ndor, most recently active
-first. This list is regenerated automatically every week (last: 2026-07-20).
+first. This list is regenerated automatically every week (last: 2026-07-27).
 
 ## careerrag
 
 No description.
-Main language: Python. Last activity: 2026-07-13.
+Main language: Python. Last activity: 2026-07-20.
 Link: https://github.com/n3ndor/careerrag
 
 ## belegradar
