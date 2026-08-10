@@ -1,9 +1,13 @@
 ---
 id: work-sojourn
-title: Sojourn Creations - Mobile Lead (April 2024 - July 2025)
+title: Sojourn Creations - promoted from developer to Mobile Lead (April 2024 - July 2025)
 type: profile
-updated: 2026-07-03
+updated: 2026-08-10
 ---
+
+Has Nandor led a team? Yes: at Sojourn Creations he was promoted from developer
+to Mobile Lead in January 2025, a promotion earned on the job rather than a
+title he was hired into.
 
 Nandor worked at Sojourn Creations, a US gaming startup (remote), from April 2024
 to July 2025. He joined as a developer and was promoted to Mobile Lead in

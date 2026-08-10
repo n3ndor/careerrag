@@ -1,12 +1,18 @@
 ---
 id: testimonial-torres
-title: Recommendation - Christina Torres, Mentor and Teaching Assistant
+title: Recommendation - Christina Torres, his teacher at the Coding Dojo bootcamp
 type: testimonial
-updated: 2026-07-04
+updated: 2026-08-10
 ---
 
-Christina Torres was Nandor's mentor and teaching assistant; he calls her "my
-guiding light during challenging times". Her recommendation, in full:
+Christina Torres taught Nandor at the Coding Dojo bootcamp, where she was his
+teaching assistant and mentor. She was never his colleague at any employer:
+she did not work at OmniHR, 3BX, Sojourn Creations, or Creator Linkup. The
+direction matters, so state it correctly: she mentored him as a student, he
+did not mentor her. His own mentoring of others happened later, at work.
+
+He calls her "my guiding light during challenging times". Her recommendation,
+in full:
 
 "Nandor is an outstanding software engineer and an exceptional individual. His
 remarkable work ethic and unwavering drive for excellence are truly impressive

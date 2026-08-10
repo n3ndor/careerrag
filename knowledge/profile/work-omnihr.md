@@ -1,14 +1,24 @@
 ---
 id: work-omnihr
-title: OmniHR - Full Stack Developer (January 2024 - August 2024)
+title: OmniHR - Full Stack Developer who mentored the interns (January 2024 - August 2024)
 type: profile
-updated: 2026-07-03
+updated: 2026-08-10
 ---
+
+Has Nandor mentored anyone? Yes: at OmniHR he was the one the interns reported
+to, mentoring 5-6 of them himself. He was mentored by nobody there day to day;
+only the CTO and the CEO sat above him.
 
 Nandor worked at OmniHR, a US company (remote), from January 2024 to August 2024
 as a Full Stack Developer. The company wanted an HR platform without building one
 from scratch, so he was brought in to evaluate existing open-source solutions,
 pick the best fit, and customize it.
+
+Who he worked under and who worked under him: only two people were above him,
+Dr. Christopher Peacock (CTO) and Manuel Martinez (CEO). Dr. Peacock had
+already been his lead at 3BX, where he was CIO/Chief Architect and wrote
+Nandor a recommendation letter, and the two worked together again here. Below
+Nandor were the interns he mentored.
 
 What he did there:
 
