@@ -36,7 +36,13 @@ CASES = [
         "category": "grounded",
         "question": "What experience does he have with RAG systems?",
         "contains_any": ["rag"],
-        "cites_any": ["faq-ai-tools", "work-creator-linkup", "profile-pitch", "project-careerrag"],
+        "cites_any": [
+            "faq-ai-tools",
+            "work-creator-linkup",
+            "profile-pitch",
+            "project-careerrag",
+            "post-careerrag-launch",
+        ],
     },
     {
         "id": "us-hours",
