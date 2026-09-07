@@ -3,23 +3,23 @@ id: github-repos
 title: Public GitHub repositories (auto-generated)
 type: github
 source_url: https://github.com/n3ndor
-updated: 2026-08-31
+updated: 2026-09-07
 ---
 
 Nandor's public repositories at github.com/n3ndor, most recently active
-first. This list is regenerated automatically every week (last: 2026-08-31).
+first. This list is regenerated automatically every week (last: 2026-09-07).
+
+## careerrag
+
+No description.
+Main language: Python. Last activity: 2026-08-31.
+Link: https://github.com/n3ndor/careerrag
 
 ## animation3d
 
 A glide-through 3D space: drift a closed loop with the mouse, enter a stop to see the piece up close. three.js + React.
 Main language: JavaScript. Last activity: 2026-08-28.
 Link: https://github.com/n3ndor/animation3d
-
-## careerrag
-
-No description.
-Main language: Python. Last activity: 2026-08-24.
-Link: https://github.com/n3ndor/careerrag
 
 ## belegradar
 
