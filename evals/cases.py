@@ -252,7 +252,17 @@ CASES = [
         "id": "canadian-client-name",
         "category": "grounded",
         "question": "What is the name of the Canadian AI company he works with?",
-        "contains_any": ["not named", "not public", "unnamed", "confidential", "doesn't name", "does not name"],
+        # Either answer is right: saying it is unnamed, or declining and
+        # pointing to Nandor. What matters is must_not_contain.
+        "contains_any": [
+            "not named",
+            "unnamed",
+            "confidential",
+            "does not name",
+            "doesn't name",
+            "don't have that",
+            "nandor@nagysolution.com",
+        ],
         "must_not_contain": ["aesela"],
     },
     # ---------------- out of scope ----------------
