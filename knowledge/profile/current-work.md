@@ -2,34 +2,40 @@
 id: profile-current-work
 title: What Nandor is working on right now
 type: profile
-updated: 2026-07-03
+updated: 2026-09-25
 ---
 
-Nandor builds portfolio projects in public, alongside his role at Creator
-Linkup and his freelance practice. The automation systems he built for his
-clients were designed to be self-sufficient and easy to maintain, and they
-now largely run without him; that success freed significant capacity, which
-he invests in AI-first public projects. He has real availability for new
-engagements right now. Current status (July 2026):
+Nandor splits his time between client work and his own products. The automation
+systems he built for clients were designed to be self-sufficient and easy to
+maintain, and they now largely run without him. He has real availability for new
+engagements. Current status (September 2026):
 
-## Recently shipped
+## Client work
 
-- dopaminebuy (July 1, 2026): a fake-shopping game PWA on Cloudflare Workers + D1
-  with Stripe checkout, live at dopaminebuy.nagysolution.com.
-- JobRadar (July 2, 2026): automated tech-job market intelligence with a Python
-  pipeline and LLM enrichment, live at jobradar.nagysolution.com.
-- CareerRAG (July 2026): this AI assistant, a grounded RAG chat embedded on
-  nagysolution.com.
+- An ongoing engagement with a Canadian AI company: a series of smaller projects
+  across full-stack development, automation and applied AI. The client is not
+  named and none of the work is public or demonstrable yet.
+- Freelance automation and full-stack work for companies in the DACH region.
 
-## In progress and up next
+## His own products: Shopify apps
 
-- jobfeeds: extracting JobRadar's six job-board API adapters into a typed, async,
-  tested open-source Python package on PyPI, then pointing JobRadar back at it as
-  a dependency.
-- BelegRadar: an invoice and receipt extraction demo for the DACH market. Drop a
-  PDF invoice in, get validated structured data back: VAT breakdown, IBAN
-  checksum validation, and a German §14 UStG required-fields check, with
-  published accuracy numbers.
+Under the brand Nasolv he builds and sells his own Shopify apps. Two are live on
+the Shopify App Store since September 2026: Nasolv Accessibility Scan and Nasolv
+Reorder. Two more are in development, both marketplace connectors that sync a
+Shopify store with a European marketplace:
 
-New projects ship every few weeks. The GitHub profile at github.com/n3ndor shows
-live activity.
+- A Kaufland connector, planned for all nine Kaufland storefronts.
+- An eMAG connector for Romania, Hungary and Bulgaria, in Romanian and Hungarian.
+
+## Recently shipped public projects
+
+- Swaprika (September 2026): an ingredient substitution finder at
+  swaprika.nagysolution.com.
+- BelegRadar (July 2026): German invoice extraction with deterministic
+  validation, at beleg.nagysolution.com.
+- jobfeeds (July 2026): an open source Python package on PyPI with six job board
+  adapters.
+- CareerRAG (July 2026): this AI assistant, embedded on nagysolution.com.
+- JobRadar and dopaminebuy (July 2026).
+
+The GitHub profile at github.com/n3ndor shows live activity.
