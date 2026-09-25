@@ -3,7 +3,7 @@ id: project-shopify-apps
 title: Nasolv Shopify apps - two published App Store products
 type: project
 source_url: https://apps.shopify.com/partners/nagy-solution
-updated: 2026-09-21
+updated: 2026-09-25
 ---
 
 Nandor builds and sells his own Shopify apps under the brand **Nasolv** (from
@@ -41,6 +41,22 @@ a nightly snapshot and accumulates its own history over time. Where the sales
 history is too short to forecast, it says that plainly rather than printing a
 number it cannot support. It does not build purchase orders, because Shopify
 ships those for free.
+
+## In development: marketplace connectors
+
+Two more apps are being built, both connecting a Shopify store to a European
+marketplace so a merchant can sell there without an ERP. Neither is on the App
+Store yet.
+
+- **Kaufland connector.** Lists Shopify products on Kaufland by barcode (EAN),
+  keeps stock in sync in both directions, imports Kaufland orders into Shopify and
+  sends tracking numbers back. Planned for all nine Kaufland storefronts: Germany,
+  Austria, Czechia, Slovakia, Poland, France, Italy, Spain and the Netherlands.
+- **eMAG connector.** The same kind of sync for eMAG, the largest online
+  marketplace in Romania, Hungary and Bulgaria. The app will be in Romanian and
+  Hungarian, two of the languages Nandor speaks. As of September 2026 no live
+  Shopify app syncs eMAG orders; the one earlier connector was withdrawn from the
+  App Store.
 
 ## Stack and operations
 
