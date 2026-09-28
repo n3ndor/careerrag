@@ -3,23 +3,29 @@ id: github-repos
 title: Public GitHub repositories (auto-generated)
 type: github
 source_url: https://github.com/n3ndor
-updated: 2026-09-21
+updated: 2026-09-28
 ---
 
 Nandor's public repositories at github.com/n3ndor, most recently active
-first. This list is regenerated automatically every week (last: 2026-09-21).
-
-## n8n-nodes-typesafe-jev
-
-n8n community node for TypeSafe Jev structured AI decisions
-Main language: TypeScript. Last activity: 2026-09-19. Stars: 2.
-Link: https://github.com/n3ndor/n8n-nodes-typesafe-jev
+first. This list is regenerated automatically every week (last: 2026-09-28).
 
 ## careerrag
 
 No description.
-Main language: Python. Last activity: 2026-09-14.
+Main language: Python. Last activity: 2026-09-25.
 Link: https://github.com/n3ndor/careerrag
+
+## n8n-nodes-typesafe-jev
+
+n8n community node for TypeSafe Jev structured AI decisions
+Main language: TypeScript. Last activity: 2026-09-23. Stars: 2.
+Link: https://github.com/n3ndor/n8n-nodes-typesafe-jev
+
+## swaprika
+
+A GraphQL API for context aware ingredient substitution. What can replace this ingredient, in this situation, and what changes if you do.
+Main language: TypeScript. Last activity: 2026-09-22.
+Link: https://github.com/n3ndor/swaprika
 
 ## animation3d
 
@@ -74,9 +80,3 @@ Link: https://github.com/n3ndor/GamesHub
 No description.
 Main language: HTML. Last activity: 2024-02-29.
 Link: https://github.com/n3ndor/FrontendMentor
-
-## form-master
-
-No description.
-Main language: TypeScript. Last activity: 2024-02-18.
-Link: https://github.com/n3ndor/form-master
