@@ -74,13 +74,19 @@ REFUSAL_MARKERS = [
 ]
 
 
+def normalize(text: str) -> str:
+    # Models mix typographic and ASCII apostrophes, and the markers are
+    # written in ASCII, so "I don’t have" used to miss "don't have".
+    return text.lower().replace("’", "'").replace("‘", "'")
+
+
 def is_refusal(answer: str) -> bool:
-    lowered = answer.lower()
+    lowered = normalize(answer)
     return any(marker in lowered for marker in REFUSAL_MARKERS)
 
 
 def check_case(case: dict, answer: str, source_ids: list[str]) -> tuple[bool, str]:
-    lowered = answer.lower()
+    lowered = normalize(answer)
 
     for banned in case.get("must_not_contain", []):
         if banned.lower() in lowered:
