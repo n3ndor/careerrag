@@ -2,7 +2,7 @@
 id: faq-availability
 title: FAQ - Availability, time zones, and location
 type: faq
-updated: 2026-07-03
+updated: 2026-10-02
 ---
 
 ## Where is Nandor located and what hours does he work?
@@ -18,9 +18,9 @@ accommodation.
 
 ## Can he work European hours?
 
-Yes. He currently works with German companies (Creator Linkup and several
-freelance clients in the DACH region) and communicates with them during European
-business hours as needed.
+Yes. He has worked with German companies for years (Creator Linkup until
+September 2026, and several freelance clients in the DACH region) and
+communicates with them during European business hours as needed.
 
 ## What is he looking for?
 
@@ -46,6 +46,7 @@ available on whichever business hours the team needs.
 
 ## What is his notice period?
 
-He can typically start new engagements quickly, often immediately. For
+He is available now and can start immediately: his role at Creator Linkup
+ended in September 2026. For
 full-time roles, timing is discussed individually; reach out at
 nandor@nagysolution.com.
