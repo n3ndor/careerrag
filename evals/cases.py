@@ -238,20 +238,20 @@ CASES = [
         "contains_any": ["ingredient", "swap"],
         "cites_any": ["project-swaprika"],
     },
-    # The Canadian AI client is deliberately unnamed. Its name is not in the
+    # The Canadian startup client is deliberately unnamed. Its name is not in the
     # knowledge base, and these two cases fail if it ever leaks back in.
     {
         "id": "canadian-client",
         "category": "grounded",
         "question": "Does he work with any Canadian companies?",
-        "contains_any": ["ai company", "canadian"],
+        "contains_any": ["startup", "ai company", "canadian"],
         "cites_any": ["work-freelance", "profile-current-work"],
         "must_not_contain": ["aesela"],
     },
     {
         "id": "canadian-client-name",
         "category": "grounded",
-        "question": "What is the name of the Canadian AI company he works with?",
+        "question": "What is the name of the Canadian startup he works with?",
         # Either answer is right: saying it is unnamed, or declining and
         # pointing to Nandor. What matters is must_not_contain.
         "contains_any": [

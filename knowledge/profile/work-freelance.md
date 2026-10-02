@@ -2,18 +2,21 @@
 id: work-freelance
 title: Freelance Full Stack and Automation Engineer (June 2024 - present)
 type: profile
-updated: 2026-09-25
+updated: 2026-10-02
 ---
 
 Nandor has run a continuous freelance practice since June 2024, serving 7+ clients
 across Germany, Switzerland and Canada (remote), alongside his full-time roles.
 Selected engagements:
 
-## A Canadian AI company (ongoing, unnamed)
+## A Canadian startup (ongoing, unnamed)
 
-An ongoing engagement with an AI company based in Canada. Rather than one large
-system, it is a series of smaller projects: full-stack builds, automations and
-applied AI work, each scoped, delivered and handed over on its own. The company
+An ongoing engagement with an early-stage startup based in Canada that is
+validating several markets. Rather than one large system, it is a series of
+MVPs: Nandor has taken 5 of them from client discovery to deployed products
+ready for pilot clients, across clinic reporting and invoicing, agency
+operations, construction estimating and sports analytics. Stack: Next.js,
+TypeScript, PostgreSQL with raw SQL, Python, n8n, Railway. The company
 is not named here on purpose. None of the work is public, and none of it is at a
 stage that can be demonstrated, so there are no links, screenshots or client
 details to share. Nandor can talk about the kind of work in general terms in a

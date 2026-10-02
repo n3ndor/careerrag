@@ -2,19 +2,19 @@
 id: profile-current-work
 title: What Nandor is working on right now
 type: profile
-updated: 2026-09-25
+updated: 2026-10-02
 ---
 
-Nandor splits his time between client work and his own products. The automation
-systems he built for clients were designed to be self-sufficient and easy to
-maintain, and they now largely run without him. He has real availability for new
-engagements. Current status (September 2026):
+Nandor's role at Creator Linkup ended in September 2026. He now splits his time
+between freelance client work and his own products, and is available for a new
+full-time role, contract or engagement right now. Current status (October 2026):
 
 ## Client work
 
-- An ongoing engagement with a Canadian AI company: a series of smaller projects
-  across full-stack development, automation and applied AI. The client is not
-  named and none of the work is public or demonstrable yet.
+- An ongoing engagement with an early-stage Canadian startup that is validating
+  several markets. He has taken 5 MVPs from discovery to deployed products ready
+  for pilot clients. The startup is not named and none of the work is public or
+  demonstrable yet.
 - Freelance automation and full-stack work for companies in the DACH region.
 
 ## His own products: Shopify apps
@@ -29,6 +29,10 @@ Shopify store with a European marketplace:
 
 ## Recently shipped public projects
 
+- MenuVivo: a multi-tenant platform for small businesses in Paraguay, at
+  menuvivo.nagysolution.com.
+- An n8n community node for TypeSafe Jev, published on npm with provenance
+  releases.
 - Swaprika (September 2026): an ingredient substitution finder at
   swaprika.nagysolution.com.
 - BelegRadar (July 2026): German invoice extraction with deterministic
