@@ -2,7 +2,7 @@
 id: profile-skills
 title: Technical skills
 type: profile
-updated: 2026-07-03
+updated: 2026-10-02
 ---
 
 ## Primary stack
@@ -37,6 +37,7 @@ updated: 2026-07-03
 - React Native (2 years) and Flutter (2 years)
 - Django and Flask
 - Docker (2 years), Vercel (3 years), Cloudflare Workers and D1
+- Remix, Prisma, Playwright, Hono, Shopify app platform
 - MySQL (2 years), Firebase (2 years)
 - Jest, Cypress, pytest
 - WCAG 2.1, ARIA, responsive design
