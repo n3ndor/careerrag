@@ -3,22 +3,22 @@ id: github-repos
 title: Public GitHub repositories (auto-generated)
 type: github
 source_url: https://github.com/n3ndor
-updated: 2026-10-19
+updated: 2026-10-26
 ---
 
 Nandor's public repositories at github.com/n3ndor, most recently active
-first. This list is regenerated automatically every week (last: 2026-10-19).
+first. This list is regenerated automatically every week (last: 2026-10-26).
 
 ## careerrag
 
 No description.
-Main language: Python. Last activity: 2026-10-12.
+Main language: Python. Last activity: 2026-10-19.
 Link: https://github.com/n3ndor/careerrag
 
 ## n8n-nodes-typesafe-jev
 
 n8n community node for TypeSafe Jev structured AI decisions
-Main language: TypeScript. Last activity: 2026-09-23. Stars: 2.
+Main language: TypeScript. Last activity: 2026-09-23. Stars: 3.
 Link: https://github.com/n3ndor/n8n-nodes-typesafe-jev
 
 ## swaprika
