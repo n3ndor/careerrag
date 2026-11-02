@@ -3,16 +3,22 @@ id: github-repos
 title: Public GitHub repositories (auto-generated)
 type: github
 source_url: https://github.com/n3ndor
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 Nandor's public repositories at github.com/n3ndor, most recently active
-first. This list is regenerated automatically every week (last: 2026-10-26).
+first. This list is regenerated automatically every week (last: 2026-11-02).
+
+## jobradar
+
+No description.
+Main language: TypeScript. Last activity: 2026-10-28.
+Link: https://github.com/n3ndor/jobradar
 
 ## careerrag
 
 No description.
-Main language: Python. Last activity: 2026-10-19.
+Main language: Python. Last activity: 2026-10-26.
 Link: https://github.com/n3ndor/careerrag
 
 ## n8n-nodes-typesafe-jev
@@ -38,12 +44,6 @@ Link: https://github.com/n3ndor/animation3d
 No description.
 Main language: Python. Last activity: 2026-08-13.
 Link: https://github.com/n3ndor/belegradar
-
-## jobradar
-
-No description.
-Main language: TypeScript. Last activity: 2026-08-13.
-Link: https://github.com/n3ndor/jobradar
 
 ## jobfeeds
 
